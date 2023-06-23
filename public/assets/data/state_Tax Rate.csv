@@ -1,0 +1,53 @@
+STATEFP,STUSPS,State,Tax rates (percent),Lowest bracket,Highest bracket,Number of brackets,Tax rate on financial institutions (a),Federal income tax deductible?,Top Tax Rate
+1,AL,Alabama,6.5,-- Flat rate --,,1,6.5,Yes,0.07
+2,AK,Alaska,0 - 9.4,"$25,000","$222,000",10,0 - 9.4,,0.09
+4,AZ,Arizona,4.9 (b),-- Flat rate --,,1,4.9 (b),,0.05
+5,AR,Arkansas,1.0 - 5.3,"$3,000","$25,001",5,1.0 - 5.3,,0.05
+6,CA,California,8.84 (b),-- Flat rate --,,1,10.84 (b),,0.09
+8,CO,Colorado,4.40,-- Flat rate --,,1,4.4,,0.04
+9,CT,Connecticut,7.5 (c),-- Flat rate --,,1,7.5 (c),,0.08
+10,DE,Delaware,8.7,-- Flat rate --,,1,8.7-1.7 (d),,0.09
+11,DC,District of Columbia,8.25 (b),-- Flat rate --,,1,8.25 (b),,0.08
+12,FL,Florida,5.500,-- Flat rate --,,1,5.5,,0.06
+13,GA,Georgia,5.75,-- Flat rate --,,1,5.75,,0.06
+15,HI,Hawaii,4.4 - 6.4 (e),"$25,000","$100,001",3,7.92 (f),,0.06
+16,ID,Idaho,6.5 (f),-- Flat rate --,,1,6.5 (f),,0.07
+17,IL,Illinois,9.5,-- Flat rate --,,1,9.5 (g),,0.10
+18,IN,Indiana,4.90,-- Flat rate --,,1,5,,0.05
+19,IA,Iowa,5.5 - 8.4,"$100,000",,2 (i),4.7,Yes (i),0.08
+20,KS,Kansas,4.0 (j),-- Flat rate --,,1,2.25 (j),,0.04
+21,KY,Kentucky,5.0,-- Flat rate --,,1,5 (a),,0.05
+22,LA,Louisiana,3.5 - 7.5,"$50,000","$150,000",3,3.5 - 7.5,Yes,0.08
+23,ME,Maine,3.5 - 8.93,"$350,000","$3,500,000",4,1.0 (k),,0.09
+24,MD,Maryland,8.25,-- Flat rate --,,1,8.25,,0.08
+25,MA,Massachusetts,8.0 (l),-- Flat rate --,,1,9.0 (l),,0.08
+26,MI,Michigan,6.0,-- Flat rate --,,1,--- (a),,0.06
+27,MN,Minnesota,9.8 (m),-- Flat rate --,,1,9.8 (m),,0.10
+28,MS,Mississippi,0 - 5.0,"$5,000","$10,001",3,0 - 5.0,,0.05
+29,MO,Missouri,4.0,-- Flat rate --,,1,4.48,Yes (i),0.04
+30,MT,Montana,6.75 (n),-- Flat rate --,,1,6.75 (n),,0.07
+31,NE,Nebraska,5.58 - 7.25,-- Flat rate --,,2,--- (a),,0.07
+32,NV,Nevada,None,,,,,,0.00
+33,NH,New Hampshire,7.6 (o),-- Flat rate --,,1,7.6 (o),,0.08
+34,NJ,New Jersey,9.0 (p),-- Flat rate --,,1,9.0 (p),,0.09
+35,NM,New Mexico,4.8 - 5.9,"$500,000",,2,4.8 - 5.9,,0.06
+36,NY,New York,6.5 (q),-- Flat rate --,,1,6.5 (q),,0.07
+37,NC,North Carolina,2.5,-- Flat rate --,,1,2.5,,0.03
+38,ND,North Dakota,1.41 - 4.31 (r),"$25,000","$50,001",3,1.41 - 4.31 (r),,0.04
+39,OH,Ohio,None (s),,,,--- (s),,0.00
+40,OK,Oklahoma,4.0,-- Flat rate --,,1,4,,0.04
+41,OR,Oregon,6.6 - 7.6 (u),-- Flat rate --,,2,6.6 - 7.6 (u),,0.08
+42,PA,Pennsylvania,8.99,-- Flat rate --,,1,--- (a),,0.09
+72,PR,Rhode Island,7.0 (b),-- Flat rate --,,1,9.0 (b),,0.07
+44,RI,South Carolina,5.0,-- Flat rate --,,1,4.5 (u),,0.05
+45,SC,South Dakota,None (b),,,,6.0-0.25% (b),,0.00
+46,SD,Tennessee,6.5,-- Flat rate --,,1,6.5,,0.07
+47,TN,Texas,None (v),,,,(v),,0.00
+48,TX,Utah,4.85 (b),-- Flat rate --,,1,4.85 (b),,0.05
+49,UT,Vermont,6.0 - 8.5 (b),"$10,000","$25,000",3,--- (a),,0.09
+50,VT,Virginia,6.0,-- Flat rate --,,1,6,,0.06
+51,VA,Washington,None,,,,,,0.00
+53,WA,West Virginia,6.5,-- Flat rate --,,1,6.5,,0.07
+54,WV,Wisconsin,7.9,-- Flat rate --,,1,7.9,,0.08
+55,WI,Wyoming,None,,,,,,0.00
+56,WY,,,,,,,,
