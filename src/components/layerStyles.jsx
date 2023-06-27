@@ -200,5 +200,198 @@ export const mapStyles = {
         'fill-outline-color':'#fff'
       }
     }
+  },
+
+
+  // NRI
+  'NRI':{
+    'State':{
+      id: 'state',
+      type: 'fill',
+      source: 'state',
+      paint: {
+        'fill-color': [
+          'interpolate',
+          ['linear'],
+          ['get', 'EAL_SCORE'],
+          0,
+          '#F2F12D',
+          15,
+          '#fee8c8',
+          30,
+          '#fdd49e',
+          45,
+          '#fdbb84',
+          60,
+          '#fc8d59',
+          75,
+          '#ef6548',
+          90,
+          '#d7301f',
+          100,
+          '#990000'
+        ],
+        'fill-opacity':0.6,
+        'fill-outline-color':'#fff'
+      }
+    },
+    'County':{
+      id: 'county',
+      type: 'fill',
+      source: 'county',
+      paint: {
+        'fill-color': [
+          'interpolate',
+          ['linear'],
+          ['get', 'RISK_SCORE'],
+          0,
+          '#F2F12D',
+          15,
+          '#fee8c8',
+          30,
+          '#fdd49e',
+          45,
+          '#fdbb84',
+          60,
+          '#fc8d59',
+          75,
+          '#ef6548',
+          90,
+          '#d7301f',
+          100,
+          '#990000'
+        ],
+        'fill-opacity':0.6,
+        'fill-outline-color':'#fff'
+      }
+    }
+  },
+
+  // Unemployment Rate
+  'Unemployment Rate':{
+    'State':{
+      id: 'state',
+      type: 'fill',
+      source: 'state',
+      paint: {
+        'fill-color': [
+          'interpolate',
+          ['linear'],
+          ['get', 'Rate'],
+          0,
+          '#F2F12D',
+          1,
+          '#fee8c8',
+          2,
+          '#fdd49e',
+          3,
+          '#fdbb84',
+          4,
+          '#fc8d59',
+          5,
+          '#ef6548',
+          6,
+          '#d7301f',
+          7,
+          '#990000'
+        ],
+        'fill-opacity':0.6,
+        'fill-outline-color':'#fff'
+      }
+    },
+    'County':{
+      id: 'county',
+      type: 'fill',
+      source: 'county',
+      paint: {
+        'fill-color': [
+          'interpolate',
+          ['linear'],
+          ['get', 'Rate'],
+          0,
+          '#F2F12D',
+          1,
+          '#fee8c8',
+          2,
+          '#fdd49e',
+          3,
+          '#fdbb84',
+          4,
+          '#fc8d59',
+          5,
+          '#ef6548',
+          6,
+          '#d7301f',
+          7,
+          '#990000'
+        ],
+        'fill-opacity':0.6,
+        'fill-outline-color':'#fff'
+      }
+    }
+  },
+
+  'Tax Rate':{
+    'State':{
+      id: 'state',
+      type: 'fill',
+      source: 'state',
+      paint: {
+        'fill-color': [
+          'interpolate',
+          ['linear'],
+          ['get', 'Top Tax Rate'],
+          0,
+          '#F2F12D',
+          0.01,
+          '#fee8c8',
+          0.02,
+          '#fdd49e',
+          0.03,
+          '#fdbb84',
+          0.04,
+          '#fc8d59',
+          0.05,
+          '#ef6548',
+          0.06,
+          '#d7301f',
+          0.07,
+          '#990000'
+        ],
+        'fill-opacity':0.6,
+        'fill-outline-color':'#fff'
+      }
+    },
+    'County':{
+      id: 'county',
+      type: 'fill',
+      source: 'county',
+      paint: {
+        'fill-color': [
+          'interpolate',
+          ['linear'],
+          ['get', 'Top Tax Rate'],
+          0,
+          '#F2F12D',
+          0.01,
+          '#fee8c8',
+          0.02,
+          '#fdd49e',
+          0.03,
+          '#fdbb84',
+          0.04,
+          '#fc8d59',
+          0.05,
+          '#ef6548',
+          0.06,
+          '#d7301f',
+          0.07,
+          '#990000'
+        ],
+        'fill-opacity':0.6,
+        'fill-outline-color':'#fff'
+      }
+    }
   }
+
 }

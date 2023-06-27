@@ -8,11 +8,11 @@ export default function MapPage() {
         activeData:'Airports'
     });
 
-    let cards = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+    // let cards = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
     let data = [
         // 'Employment & Rental Survey', 
         'Housing Costs', 
-        'Income Tax Rate',
+        'Tax Rate',
         // 'Weather', 
         // 'Tax Burden',
         // 'Education', 
